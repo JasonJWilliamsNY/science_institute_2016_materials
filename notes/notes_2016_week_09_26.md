@@ -15,14 +15,14 @@
 
 
 ### Important Concepts
-* Bioinformatics explores data at the "Information" level
+* Bioinformatics explores biology at the "Information" level
 * "All models are wrong, some are useful"*
 * Reductionism vs. Holism
 
 ### Some Questions
 *Think about answering these before you read the notes/watch the video lecture*
 
-* How do you think computers are using to understand biology?
+* How do you think computers are used to understand biology?
 * What is(are) Data?
 * What is a model?
 * What is a computer language?
@@ -34,7 +34,7 @@
 
 ## Introduction to bioinformatics
 
-According to Wikipedia [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)is "an interdisciplinary field that develops methods and software tools for understanding biological data. As an interdisciplinary field of science, bioinformatics combines computer science, statistics, mathematics, and engineering to analyze and interpret biological data. Bioinformatics has been used for in silico analyses of biological queries using mathematical and statistical techniques."
+According to Wikipedia [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics) is "an interdisciplinary field that develops methods and software tools for understanding biological data. As an interdisciplinary field of science, bioinformatics combines computer science, statistics, mathematics, and engineering to analyze and interpret biological data. Bioinformatics has been used for in silico analyses of biological queries using mathematical and statistical techniques."
 
 In our class, bioinformatics will be as essential a tool as a pipette or a microscope. In often in high school, we get to examine a problem or question though one or just a few levels. In science, we often can examine textbooks and journal articles, but we also experiment. We will learn in this lecture how bioinformatics allows us to experiment in new ways, and also derive knowledge through a different type of experiment, the *in silico* experiment.
 
