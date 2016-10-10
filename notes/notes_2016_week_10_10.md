@@ -9,9 +9,7 @@
 * Type
 * String
 * Model
-* BLAST
-* *in vivo*
-* *in silico*
+
 
 
 ### Important Concepts
