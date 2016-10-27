@@ -4,17 +4,18 @@
 
 ### Important terms
 
-* Python (scripting language)
-* Variable
-* Type
-* String
-* Model
+* Stock solution
+* Dilution
+* Mole
+* Avogadro's number
+* Molarity
+* Limiting reagent
 
 
 
 ### Important Concepts
-* We can use Python to model biological knowledge
-* Python handles data (data structures) using types
+* We can use Python to calculate basic lab math
+
 
 
 ## Lab
