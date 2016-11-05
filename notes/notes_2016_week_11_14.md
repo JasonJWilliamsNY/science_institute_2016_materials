@@ -25,7 +25,7 @@ Look up and define the following terms
 
 Polymerase Chain Reaction (PCR) is one of the most important techniques in the molecular biology toolkit. PCR allows us to replicate a <u>specific</u> piece of DNA in the genome. Replicating a piece of DNA is the first step to analyzing it (via [DNA sequencing](https://en.wikipedia.org/wiki/Sanger_sequencing)). Replicated DNA is also often one of the first steps to editing DNA for subsequent experiments. 
 
-[Lecture Link on Google Drive]()
+[Lecture Link on Google Drive](https://drive.google.com/open?id=0B8y1JgaXuZuAWjZjV0NMRFRJZXc)
 
 **Resource Links**
 

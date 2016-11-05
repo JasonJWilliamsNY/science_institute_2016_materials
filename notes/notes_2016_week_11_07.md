@@ -46,7 +46,7 @@ Look up and define the following terms
 
 Problem, Research, Hypothesis, Test, Conclusion - or as I remember it best; Peter Rabbit Hates Tiny Carrots. From our earliest interactions with "Science" we are often exposed to the idea of the Scientific Method. What is that method? Where does it lead us? Let's discuss:
 
-[Lecture Link on Google Drive]()
+[Lecture Link on Google Drive](https://drive.google.com/open?id=0B8y1JgaXuZuAX1p0MndiQWNIQUE)
 
 ### Post-lecture questions
 *Note*: Be sure you have done the pre-lecture questions, vocabulary items, and watched the video before completing these. 
