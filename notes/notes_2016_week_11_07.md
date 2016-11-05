@@ -1,4 +1,4 @@
-## Virtual Class Notes - Philosophy of Science Lecture and PCR Primer Lecture
+## Virtual Class Notes - Philosophy of Science Lecture
 
 #### Week of November 7th, 2016
 
