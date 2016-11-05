@@ -11,14 +11,14 @@ These notes accompany two virtual class lectures and exercises. You can complete
 
 **Readings:**
 
-- Excerpt from: "Defending Science within Reason" by Susan Haack [Reading](../pdfs/Haack_reading.pdf)
-- Excerpt from: "Introducing Empiricism" by Dave Robinson, and Bill Mayblin [Reading](../pdfs/empiricisim-cartoons.pdf)
+- Excerpt from: "Defending Science within Reason" by Susan Haack [Reading](https://github.com/JasonJWilliamsNY/science_institute_2016_materials/blob/master/pdfs/Haack-reading.pdf)
+- Excerpt from: "Introducing Empiricism" by Dave Robinson, and Bill Mayblin [Reading](https://github.com/JasonJWilliamsNY/science_institute_2016_materials/blob/master/pdfs/empiricisim_cartoons.pdf)
 - Deduction and Induction: [Link](http://www.socialresearchmethods.net/kb/dedind.php)
 
 Optional Reading
 You do not have to complete this reading, but it is a good piece and worth your time
 
-- "Why study the philosophy of science?" by Paul Newell [Reading](./pdfs/why_study_phil_of_sci.pdf)
+- "Why study the philosophy of science?" by Paul Newell [Reading](https://github.com/JasonJWilliamsNY/science_institute_2016_materials/blob/master/pdfs/why_study_phil_of_sci.pdf)
 
 
 ### Pre-lecture questions
