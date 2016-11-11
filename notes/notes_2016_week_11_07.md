@@ -55,7 +55,7 @@ Problem, Research, Hypothesis, Test, Conclusion - or as I remember it best; Pete
 
 - Deductive reasoning is superior to inductive reasoning. (support or refute your case) 
 - Can science reach the truth? (support your thesis)
-- At which step of the scientific method fallacy most dangerous? (support your thesis)
+- At which step of the scientific method is fallacy most dangerous? (support your thesis)
 
 *Remember*: Answer only **one** essay topic
 
