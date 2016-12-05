@@ -30,7 +30,7 @@ DNA Sequencing allows us to "read" the nucleotides of a DNA sample. There are ma
 
 For the type of sequencing done with our classroom samples, we need to first obtain a high quality sample of a relative short piece (~1000bp) of DNA. To do this, we used PCR (i.e. the PCR reaction using very specific primers allowed us to copy a short, specific region of DNA). We will learn how DNA Sequencing works and start the process of looking at our own DNA. 
 
-Lecture Video: [Link]()
+Lecture Video: [Link](https://drive.google.com/open?id=0B8y1JgaXuZuASDRfak4yQ0FuZWc)
 
 Other Lecture Links:
 
