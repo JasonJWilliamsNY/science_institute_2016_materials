@@ -1,4 +1,4 @@
-## What is CRISPR
+## What is CRISPR?
 
 #### Week of January 2nd, 2017
 
