@@ -3,7 +3,7 @@
 
 In this virtual laboratory, we will start to understand how a DNA sequence can enable us to identify an organism 
 
-###Homework
+### Homework
 Answer pre- and post-lecture questions and lab questions. Send these to me via email by our next class (3/27), and also bring this homework to class for additional discussion. 
 
 
