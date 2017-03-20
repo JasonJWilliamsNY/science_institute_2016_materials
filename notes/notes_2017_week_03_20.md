@@ -33,10 +33,6 @@ Additionally, we can examine our data not by looking at matched sequences, but b
 
 Lecture Video: [Link](https://drive.google.com/file/d/0B3T3ADE4AgOYR2dnalFhMjFMaWM/view?usp=sharing)
 
-Other Lecture Links:
-
-- [Human Genome](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml)
-
 
 **Post-Lecture Questions:**
 1. Given our [electrophoresis results](https://github.com/JasonJWilliamsNY/science_institute_2016_materials/blob/master/results/pcr_20170306.jpg), approximately how many basepairs should our individual sequences be?
